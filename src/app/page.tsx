@@ -83,7 +83,7 @@ export default function HomePage() {
                 <div className="text-center md:text-left">
                   <h2 className="text-4xl font-bold text-gray-900 sm:text-5xl mb-4">Nontagrich Panpanich</h2>
                   <p className="mt-2 text-xl text-pink-500 font-semibold">Web Developer & Tech Enthusiast</p>
-                  <p className="mt-4 text-lg text-gray-600 max-w-2xl">Hello, my name is Nontagrich Panpanich. I'm currently a student at King Mongkut's University of Technology Thonburi. I'm interested in developing web applications using modern technology and am always committed to learning and improving my skills.</p>
+                  <p className="mt-4 text-lg text-gray-600 max-w-2xl">Hello, my name is Nontagrich Panpanich. I&apos;m currently a student at King Mongkut&apos;s University of Technology Thonburi. I&apos;m interested in developing web applications using modern technology and am always committed to learning and improving my skills.</p>
                   <div className="mt-8"><h3 className="text-2xl font-bold text-gray-800 mb-4">My Skills</h3><div className="flex flex-wrap gap-3 justify-center md:justify-start">{skills.map((skill) => (<span key={skill} className="bg-indigo-100 text-indigo-800 text-sm font-semibold px-4 py-2 rounded-full">{skill}</span>))}</div></div>
                 </div>
               </div>
