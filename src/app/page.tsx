@@ -69,7 +69,7 @@ export default function HomePage() {
           <div className="text-center text-white px-4">
             <h1 className={`text-4xl font-extrabold sm:text-5xl md:text-6xl transition-all duration-700 ease-out ${isMounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>Welcome to My Website</h1>
             <div className={`transition-all duration-700 ease-out delay-300 ${isMounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}><Typewriter /></div>
-            <div className={`mt-10 transition-all duration-700 ease-out delay-500 ${isMounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}><Link href="#about" className="px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-white hover:bg-gray-100 md:py-4 md:text-lg md:px-10">Let's Go!</Link></div>
+            <div className={`mt-10 transition-all duration-700 ease-out delay-500 ${isMounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}><Link href="#about" className="px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-white hover:bg-gray-100 md:py-4 md:text-lg md:px-10">Let&apos;s Go!</Link></div>
           </div>
         </section>
 
