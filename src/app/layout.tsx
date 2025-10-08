@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Nontagrich",
   description: "Have a nice day :)",
+  icons: {
+    icon: '/ms-icon-150x150.png',
+  },
 };
 
 export default function RootLayout({

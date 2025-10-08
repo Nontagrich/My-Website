@@ -70,11 +70,11 @@ const Navbar = () => {
               <div className="relative">
                 <div className="absolute -inset-2 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full blur opacity-0 group-hover:opacity-75 transition duration-500"></div>
                 <Image 
-                  className="relative h-10 w-auto transform group-hover:scale-110 transition-transform duration-300" 
+                  className="relative  transform group-hover:scale-110 transition-transform duration-300" 
                   src="/vercel.svg" 
                   alt="Logo" 
-                  width={40} 
-                  height={40} 
+                  width={20} 
+                  height={20} 
                 />
               </div>
               <span className="ml-3 text-xl font-bold text-white drop-shadow-lg group-hover:text-pink-300 transition-all duration-300">
