@@ -10,7 +10,7 @@ import GitHubIcon from "@/components/icons/GitHubIcon";
 import LinkedInIcon from "@/components/icons/LinkedInIcon";
 
 // --- Data for sections ---
-const educationData = [ { year: '2021 - Now', degree: 'Bachelor of Science in Computer Engineering', school: 'King Mongkut\'s University of Technology Thonburi (KMUTT)', }, { year: '2018 - 2021', degree: 'Science-Mathematics Program', school: 'Benjamarachutit Ratchaburi School', }, ];
+const educationData = [ { year: '2023 - Now', degree: 'Bachelor of Science in Computer Engineering', school: 'King Mongkut\'s University of Technology Thonburi (KMUTT)', }, { year: '2020 - 2023', degree: 'Science-Mathematics Program', school: 'Benjamarachutit Ratchaburi School', }, ];
 const experienceData = [ { year: '2024', role: 'Web Developer Intern', company: 'Example Tech Company', description: 'Developed and maintained features for the main web application using React and Next.js. Collaborated with the design team to create responsive user interfaces.', }, ];
 const skills = [ 'React', 'Next.js', 'TypeScript', 'JavaScript', 'Node.js', 'Tailwind CSS', 'HTML5', 'CSS3', 'Git', 'Firebase' ];
 const worksData = [ { title: 'Project Alpha', description: 'A web application for task management, built with Next.js and Firebase.', image: '/hq720.jpg', tags: ['Next.js', 'Firebase', 'Tailwind CSS'], link: '#', }, { title: 'Loma RaM Ram', description: 'An e-commerce storefront prototype featuring a clean design and smooth animations.', image: '/Loma.jpg', tags: ['React', 'TypeScript', 'CSS Modules'], link: '#', }, { title: 'Think but (Not) Reach', description: 'A data visualization dashboard for tracking real-time metrics.', image: '/Castorice.jpg', tags: ['React', 'D3.js', 'API'], link: '#', }, ];
